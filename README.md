@@ -1,7 +1,6 @@
 Hello All,
 
-I wanted to share with the most common Process injection techniques.
-
+I wanted to share with you the most common Process injection techniques:
 1. DLL Injection
 2. Direct Injection (ShellCode)
 3. Thread Hijacking
